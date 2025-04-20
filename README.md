@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SarthakDT
 - 👀 I’m interested in Machine Learning and Economics
-- 🌱 I’m currently learning Learning Algorithms
+- 🌱 I’m currently learning "Learning Algorithms"
 - 📫 How to reach me sarthaksr585@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I know Japanese
