@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SarthakDT
 - 👀 I’m interested in Data Science and Economics
-- 🌱 I’m currently learning "Learning Algorithms"
+- 🌱 I’m currently learning "Deep Learning"
 - 📫 How to reach me sarthaksr585@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I know Japanese
